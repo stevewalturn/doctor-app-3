@@ -1,0 +1,3 @@
+Create a full apps for doctors diagnosis system (to records a patient consultation). Do have full authentication and all basic flows.
+
+And then please make the UI very modern and SLICK please.
